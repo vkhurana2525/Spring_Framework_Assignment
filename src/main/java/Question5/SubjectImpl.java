@@ -34,7 +34,7 @@ class Maths1 implements Subject {
 }
 
 @Component
-
+@Primary
 class Science1 implements Subject {
     @Override
     public void subject_name(){

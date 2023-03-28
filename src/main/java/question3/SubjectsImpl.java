@@ -25,10 +25,10 @@ interface Subjects{
 }
 
 
+
+
+
 @Component
-
-
-
 class Maths1 implements Subjects{
     @Override
     public void subject_name(){
@@ -36,7 +36,7 @@ class Maths1 implements Subjects{
     }
 }
 
-@Component
+
 
 class Science1 implements Subjects{
     @Override
